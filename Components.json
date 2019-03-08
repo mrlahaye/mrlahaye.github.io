@@ -1,0 +1,12 @@
+[
+	{id:1, type:"GPU", name:"RX 580", hashrate:"1000", nethash:"", msrp:"100",netval:""},
+	{id:2, type:"GPU", name:"RX 580", hashrate:"2000", nethash:"", msrp:"200",netval:""},
+	{id:3, type:"GPU", name:"RX 580", hashrate:"3000", nethash:"", msrp:"300",netval:""},
+	{id:4, type:"GPU", name:"RX 580", hashrate:"4000", nethash:"", msrp:"400",netval:""},
+	{id:5, type:"GPU", name:"RX 580", hashrate:"5000", nethash:"", msrp:"500",netval:""},
+	{id:6, type:"GPU", name:"RX 580", hashrate:"6000", nethash:"", msrp:"600",netval:""},
+	{id:7, type:"GPU", name:"RX 580", hashrate:"7000", nethash:"", msrp:"700",netval:""},
+	{id:8, type:"GPU", name:"RX 580", hashrate:"8000", nethash:"", msrp:"800",netval:""},
+	{id:9, type:"GPU", name:"RX 580", hashrate:"9000", nethash:"", msrp:"900",netval:""},
+	{id:10, type:"GPU", name:"RX 580", hashrate:"10000", nethash:"", msrp:"1000",netval:""}
+]
